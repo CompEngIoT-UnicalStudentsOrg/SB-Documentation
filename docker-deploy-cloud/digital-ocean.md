@@ -23,7 +23,7 @@ Link to personal project as a reference: [moody arch on a swarm network](https:/
 
 ### How to
 
-You can create a droplet from their web panel and access it as a normal linux server. This requires a bit more configuring than heroku.
+You can create a droplet from the digitalocean web panel and access it as a normal linux server. This requires a bit more configuring than heroku.
 
 The docker-machine support is included in the docker-machine cli. This is an example of how to directly create a virtual private server as a docker node taken from my previously linked project. This makes it easy to log into the node or use it in a cluster with tools like swarm for orchestrating:
 

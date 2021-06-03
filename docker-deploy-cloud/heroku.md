@@ -6,8 +6,8 @@ Heroku is probably the easiest way we have to deploy our app on the cloud. Easy 
 - [Pros](#pros)
 - [Cons](#cons)
 - [How To](#how-to)
-	- [Basic app](basic-app)
-	- [Docker app](docker-app)
+	- [Basic app](#basic-app)
+	- [Docker app](#docker-app)
 
 ### Pros
 
