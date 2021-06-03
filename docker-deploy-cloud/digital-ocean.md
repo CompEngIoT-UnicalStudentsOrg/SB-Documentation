@@ -6,6 +6,12 @@ I already have some experience with this platform, I used it for a personal proj
 
 Link to personal project as a reference: [moody arch on a swarm network](https://github.com/Abathargh/moody-do-swarm).
 
+
+## Table of Contents
+- [Pros](#pros)
+- [Cons](#cons)
+- [How To](#how-to)
+
 ### Pros
 - 100€ credit in the github education pack for students
 - easy to use both via website and terminal
