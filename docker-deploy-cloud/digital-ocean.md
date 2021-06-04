@@ -8,24 +8,26 @@ Link to personal project as a reference: [moody arch on a swarm network](https:/
 
 
 ## Table of Contents
-- [Pros](#pros)
-- [Cons](#cons)
-- [How To](#how-to)
+- [Digital Ocean](#digital-ocean)
+  - [Table of Contents](#table-of-contents)
+    - [Pros](#pros)
+    - [Cons](#cons)
+    - [How to](#how-to)
 
 ### Pros
 - 100€ credit in the github education pack for students
-- easy to use both via website and terminal
-- native support for docker-machine based deploy and virtual node administration
-- accepts paypal
-- 
+- Easy to use both via website and terminal
+- Native support for docker-machine based deploy and virtual node administration
+- Accepts paypal
+  
 ### Cons
-- Requires a bit of knowledge of the specific tools to create the architecture from the ground up
+- Requires a bit of knowledge of some specific tools to create the architecture from the ground up
 
 ### How to
 
-You can create a droplet from the digitalocean web panel and access it as a normal linux server. This requires a bit more configuring than heroku.
+You can create a droplet from the digitalocean web panel and access it as a normal linux server. This requires a bit more configuration than heroku.
 
-The docker-machine support is included in the docker-machine cli. This is an example of how to directly create a virtual private server as a docker node taken from my previously linked project. This makes it easy to log into the node or use it in a cluster with tools like swarm for orchestrating:
+The docker-machine support for this platform is included in the docker-machine cli, which is a tool that you have to install on your computer along with docker engine. This is an example of how to directly create a virtual private server as a docker node taken from my previously linked project. This makes it easy to log into the node or use it in a cluster with tools like swarm for orchestrating:
 
 ```bash
 docker-machine create \

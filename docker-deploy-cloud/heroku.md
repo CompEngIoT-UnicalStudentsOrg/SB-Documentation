@@ -3,27 +3,29 @@
 Heroku is probably the easiest way we have to deploy our app on the cloud. Easy to setup, deploy and start.
 
 ## Table of Contents
-- [Pros](#pros)
-- [Cons](#cons)
-- [How To](#how-to)
-	- [Basic app](#basic-app)
-	- [Docker app](#docker-app)
+- [Heroku](#heroku)
+	- [Table of Contents](#table-of-contents)
+		- [Pros](#pros)
+		- [Cons](#cons)
+	- [How To](#how-to)
+		- [Basic app](#basic-app)
+		- [Docker app](#docker-app)
 
 ### Pros
 
 - Free hour pool (550 hrs) by default + possibility of having more by coupling a card + github student pack
 - Really easy to setup, very simple apps deployed in ~10 mins
-- support for heroku based docker registries
+- Support for heroku based docker registries in a simple and direct way
 
 ### Cons
 
-- forced to use credit/debit card
-- little bit difficult to use for more complex stuff/architectures
-- docker support is a bit more tedious to setup than on digitalocean
+- Forced to use credit/debit card
+- Little bit difficult to use for more complex stuff/architectures
+- Docker support for clusters is a bit more tedious to setup than on digitalocean
 
 ## How To
 
-The platform is pretty easy to use with git + the heroku cli. Install it from their website, then you can quickly deploy an app in minutes.
+The platform is pretty easy to use with git + the heroku cli. Install the heroku cli from their website, then you can quickly deploy an app in minutes.
 
 ### Basic app
 
@@ -90,8 +92,8 @@ heroku open
 
 ### Docker app
 
-Building a docker app is quite simple too, you need the heroku cli, git and dockeron your machine.
-Using the same app from the other example, I also add a **Dockerfile** file:
+Building a docker app is quite simple too, you need the heroku cli, git and docker installed on your machine.
+Using the same app from the other example, I also added a **Dockerfile** file in the same directory:
 
 ```Dockerfile
 FROM golang:1.15-alpine AS builder
@@ -110,7 +112,7 @@ CMD ["/app/go-web-basic"]
 
 ```
 
-This isused to login intothe container registry:
+This is used to login into the container registry:
 ```bash
 heroku container:login 
 ```
