@@ -47,4 +47,4 @@ Once Node-RED is running you can access the editor in a browser.
 
 - The address: http://localhost:1880.
 
-It's recommend Chromium or Firefox-ESR 
+It's recommend Chromium or Firefox-ESR  
