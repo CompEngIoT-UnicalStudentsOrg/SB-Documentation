@@ -1,4 +1,4 @@
-Covid Spread indoors and temperature humidity levels
+# Covid spread indoors and temperature humidity levels
 
 The two main factors that contribute to the connection are the “changes in environmental parameters and human behavior.”
 Specifically, differences in temperature and humidity affect how stable and transmissible viruses are. For instance, some data reviewed in the new paper suggest that cold, dry, unventilated air may contribute to the transmission of influenza in the winter.
@@ -12,18 +12,26 @@ Low humidity may occur in hot, dry desert climates, or indoors in artificially h
 
 Static problems are prevalent in industries such as packaging, printing, paper, plastics, textiles, electronics, automotive manufacturing and pharmaceuticals. Friction can produce static buildup and sparks when humidity is below 45% engineers recommended a range of 45–55% RH in data centers to prevent sparks that can damage IT equipment
 
-Relative humidity of the environment
+## Relative humidity of the environment
+
 Normally the percentage of humidity that we find best is 40% or more, physically and psychologically. Ensures a pleasant atmosphere
 
-Recommended humidity and temperature levels in some specific areas
+### Needed Data
+- Outdoor air conditions
+- Humidifier
+- Humidity sensor
+- Temperature sensor
+- Dimensions of the room
+### Recommended humidity and temperature levels
 
-ACTIVITY	    TEMPERATURE	HUMIDITY
-Museoum          21-27	    	40-50
-Warehouse	     24-27	      	40-50
-HOSPITAL
-children's room 24	      	50-65
-chirophane	     24	      	55
-Room             24	            40-50
+| activity        | temperature | humidity |
+| --------------- | ----------- | -------- |
+| Museum          | 21-27       | 40-50    |
+| Warehouse       | 24-27       | 40-50    |
+| HOSPITAL        |             |          |
+| children's room | 24          | 50-65    |
+| chirophane      | 24          | 55       |
+| Room            | 24          | 40-50    |
 
 summary of useful temperature and humidity values
 DESCRIPTION       TEMPERATURE   HUMIDITY
@@ -47,8 +55,6 @@ HUMIDITY        50      47        55      47
 
 
 https://www.bbc.com/mundo/noticias-44082693
-https://www.lenntech.es/calculadoras/humedad/humedad-relativa.htm#ixzz6wxBDNWz2
-How humidity may affect COVID-19 outcome (medicalnewstoday.com)
 https://medlineplus.gov/spanish/heatillness.html
 https://www.pymesyautonomos.com/legalidad/temperatura-de-climatizacion-de-locales-publicos-por-decreto-ley
 
