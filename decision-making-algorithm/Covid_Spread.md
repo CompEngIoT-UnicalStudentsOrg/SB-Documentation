@@ -1,4 +1,4 @@
-Covid spread indoors and temperature humidity levels
+# Covid spread indoors and temperature humidity levels
 
 the two main factors that contribute to the connection are the “changes in environmental parameters and human behavior.”
 Specifically, differences in temperature and humidity affect how stable and transmissible viruses are. For instance, some data reviewed in the new paper suggest that cold, dry, unventilated air may contribute to the transmission of influenza in the winter.
@@ -14,27 +14,30 @@ Many building are poorly ventilated, and people often live in proximity, in this
 
 
 
-Relative humidity of the environment
+## Relative humidity of the environment
+
 Normally the percentage of humidity that we find best is 40% or more, physically and psychologically. Ensures a pleasant atmosphere
 
-Needed Data:
-Outdoor air conditions
-Humidifier
-Humidity sensor
-Temperature sensor
-Dimensions of the room
+### Needed Data
+- Outdoor air conditions
+- Humidifier
+- Humidity sensor
+- Temperature sensor
+- Dimensions of the room
 
-Recommended humidity and temperature levels
+### Recommended humidity and temperature levels
 
-activiti	temperature	humidity
-museoum		21-27		40-50
-Warehouse	24-27		40-50
-HOSPITAL
-children's room	24		50-65
-chirophane	24		55
-Room		24		40-50
+| activity        | temperature | humidity |
+| --------------- | ----------- | -------- |
+| Museum          | 21-27       | 40-50    |
+| Warehouse       | 24-27       | 40-50    |
+| HOSPITAL        |             |          |
+| children's room | 24          | 50-65    |
+| chirophane      | 24          | 55       |
+| Room            | 24          | 40-50    |
 
-https://www.lenntech.es/calculadoras/humedad/humedad-relativa.htm#ixzz6wxBDNWz2
-How humidity may affect COVID-19 outcome (medicalnewstoday.com)
+## References
+
+- https://www.lenntech.es/calculadoras/humedad/humedad-relativa.htm#ixzz6wxBDNWz2 -How humidity may affect COVID-19 outcome (medicalnewstoday.com)
 Calculadora de humedad relativa (lenntech.es)
 
