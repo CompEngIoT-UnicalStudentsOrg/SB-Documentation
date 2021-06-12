@@ -3,10 +3,14 @@
 The two main factors that contribute to the connection are the “changes in environmental parameters and human behavior.”
 Specifically, differences in temperature and humidity affect how stable and transmissible viruses are. For instance, some data reviewed in the new paper suggest that cold, dry, unventilated air may contribute to the transmission of influenza in the winter.
 
-A mouse in an environment with 10% relative humidity had impaired clearance of the influenza virus, compared with a mouse in an environment with 50% relative humidity and those mouses in environment with 10-20% relative humidity succumbed to influenza virus infection more rapidly than those housed in 50% relative humidity. the studies in mice suggest 40-60% may be ideal, specifically, 50% contributed in viral clearance and efficient immune response.
+A mouse in an environment with 10% relative humidity had impaired clearance of the influenza virus, compared with mice in an environment with 50% relative humidity.
 
-Note also that viruses can survive less at a relative humidity of between 47% and 70%.
-For people, the relative humidity is more pleasant between 45% and 55%, so in the cases of buildings that are poorly ventilated, and people often live in proximity, the benefits of higher humidity are mitigated. That why humidifiers are recommended during the winter in buildings. (too much outdoor humidity can also support viral spread)
+Those mouses in environment with 10-20% relative humidity succumbed to influenza virus infection more rapidly than those housed in 50% relative humidity.
+
+40-60% may be ideal, studies in mice suggest this, Specifically, 50% contributed in viral clearance and efficient immune response.
+Viruses can survive less at a relative humidity of between 47 and 70%. For people, the relative humidity is more pleasant between 45 and 55%.
+
+Many building are poorly ventilated, and people often live in proximity, in this cases, the benefits of higher humidity are mitigated. That why humidifiers are recommended during the winter in buildings. (too much outdoor humidity can also support viral spread)
 
 Low humidity may occur in hot, dry desert climates, or indoors in artificially heated spaces. In winter, especially when cold outside air is heated indoors, the humidity may drop to as low as 10–20%. This low humidity can cause adverse health effects, by drying out mucous membranes such as the lining of the nose and throat, lead to a snoring problem, and can cause respiratory distress
 
