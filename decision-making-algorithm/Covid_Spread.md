@@ -22,6 +22,7 @@ Normally the percentage of humidity that we find best is 40% or more, physically
 - Humidity sensor
 - Temperature sensor
 - Dimensions of the room
+
 ### Recommended humidity and temperature levels
 
 | activity        | temperature | humidity |
@@ -33,24 +34,26 @@ Normally the percentage of humidity that we find best is 40% or more, physically
 | chirophane      | 24          | 55       |
 | Room            | 24          | 40-50    |
 
-summary of useful temperature and humidity values
-DESCRIPTION       TEMPERATURE   HUMIDITY
-Winter indoor     21-23         40-50
-Sumer indoor      24-26         45-60
-Buildings         21-26         30-60
-Pleasant value    25            45-55
-Viruses Survive
-less              ---           47-70
-Respiratory                     under 30
-diseases          over 41       over 65
-Mites             ---           70-80
+### Summary of useful temperature and humidity values
 
-based on these valures, the range of values is presented, for the control of temperature and humidity with respect to safety means due to COVID, winter under 24ºC and summer over 24ºC temperature outdoor.
+| DESCRIPTION     | TEMPERATURE | HUMIDITY |
+| --------------- | ----------- | -------- |
+| Winter indoor   | 21-23       | 40-50    |
+| Sumer indoor    | 24-26       | 45-60    |
+| Buildings       | 21-26       | 30-60    |
+| Pleasant value  | 25          | 45-55    |
+| Viruses Survive |             |          |
+| less            | ---         | 47-70    |
+| Respiratory     |             | under 30 |
+| diseases        | over 41     | over 65  |
+| Mites           | ---         | 70-80    |
 
-            |      WINTER      |     SUMMER     |
-            |   MAX     MIN    |  MAX     MIN   |
-TEMPERATURE     23      21        26      24
-HUMIDITY        50      47        55      47
+Based on these values, the range of values is presented, for the control of temperature and humidity with respect to safety means due to COVID, winter under 24ºC and summer over 24ºC temperature outdoor.
+
+| Data Type   | WINTER MAX | WINTER MIN | SUMMER MAX | SUMMER  MIN |
+| ----------- | ---------- | ---------- | ---------- | ----------- |
+| TEMPERATURE | 23         | 21         | 26         | 24          |
+| HUMIDITY    | 50         | 47         | 55         | 47          |
 
 
 
