@@ -17,13 +17,13 @@ Normally the percentage of humidity that we find best is 40% or more, physically
 
 Recommended humidity and temperature levels in some specific areas
 
-ACTIVITY	    TEMPERATURE	  HUMIDITY
-Museoum		     21-27	    	  40-50
+ACTIVITY	    TEMPERATURE	HUMIDITY
+Museoum          21-27	    	40-50
 Warehouse	     24-27	      	40-50
 HOSPITAL
-children's room 	24	      	50-65
-chirophane	      24	      	55
-Room		          24		      40-50
+children's room 24	      	50-65
+chirophane	     24	      	55
+Room             24	            40-50
 
 summary of useful temperature and humidity values
 DESCRIPTION       TEMPERATURE   HUMIDITY
