@@ -66,13 +66,14 @@ if (Serial.available()) {
 So the Arduino will comunicate through serial the value of Humidity (in percentage) and Temperature (in celsius).
 
 ### Protocol
-| Title                               | Code that accept    | IN / OUT | 
-| ----------------------------------- | --------------------| -------: |
-| Asking for Humidity and Temperature | "getTempAndHumidity"| IN       |
-| Rational Optimist                   | Matt Ridley         | $12.00   |
-| Poor Charlie's Almanack             | Charles T. Munger   | $16.50   |
+| Title                                | Code that accept                       | IN / OUT| 
+| ------------------------------------ | ---------------------------------------| -------:|
+| Asking for Humidity and Temperature  | _"getTempAndHumidity"_                 | IN      |
+| Sending out Humidity and Temperature | "Humidity: 66.00% Temperature: 24.60°C"| OUT     |
+
 
 ## Next idea
 The next idea are about the actuators; the Arduino must be capable to receive command and start some actuation.
+
 
 
