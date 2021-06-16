@@ -56,6 +56,22 @@ Based on these values, the range of values is presented, for the control of temp
 | HUMIDITY    | 50         | 47         | 55         | 47          |
 
 
+## Distancing and humidity
+The World Health Organization and the Governments have prescribed maintaining an inter-personal distance of 1.5 or 2 m (about 6 feet) from each other in order to minimize the risk of contagion through the droplets that we usually disseminate around us from nose and mouth. Australia, Belgium, Germany, Greece, Italy, Netherlands, Portugal and Spain adopted 1.5 m
+
+Events of very low relative humidity (less than 40% of daily average) are associated with a sharp increase in positive cases of more than 20%. We have two mechanisms linked to the impact of the humidity level on the contagion: dry air favors the survival of the virus inside the drop, and on the other hand it hinders the task of various immune barriers of the respiratory system.
+If the air is dry, evaporation is greater, and consequently aerosols containing the virus weigh less and stay longer floating.
+
+Established that a person needs a distance of 1.5 meters around, in a restaurant adds 0.2 m to each one, this space includes corridors and internal decoration, in favorable humidity conditions. If the humidity conditions inside the establishment are critical the distancing should be increased to 2 meters.
+
+### Estimated Capacity
+EC = Estimated Capacity of persons within the establishment
+Dim = Room Dimensions in square meters
+Dis = interpersonal distancing  _*1.5m - 2m*_
+AE = Additional space, corridors and internal decoration _*0.2m*_
+
+EC = |Dim/(Dis+AE)|
+
 
 https://www.bbc.com/mundo/noticias-44082693
 https://medlineplus.gov/spanish/heatillness.html
